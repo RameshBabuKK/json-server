@@ -1,9 +1,147 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "Employees": [
+    {
+      "userId": "A001",
+      "jobTitle": "UI Developer",
+      "firstName": "Ramesh Babu",
+      "lastName": "Kathiravan",
+      "employeeCode": "E1",
+      "city": "Bangalore",
+      "phoneNumber": "9902888997",
+      "emailAddress": "rameshbabumca@gmail.com",
+	  "category": "Senior"
+    },
+    {
+      "userId": "A002",
+      "jobTitle": "Java Developer",
+      "firstName": "Devid",
+      "lastName": "Rome",
+      "employeeCode": "E2",
+      "city": "Chennai",
+      "phoneNumber": "98982555455",
+      "emailAddress": "devid.rome@sample.com",
+	  "category": "Senior"
+    },
+    {
+      "userId": "A003",
+      "jobTitle": "UX Designeer",
+      "firstName": "tin",
+      "lastName": "jonson",
+      "employeeCode": "E3",
+      "city": "Bangalore",
+      "phoneNumber": "5555845655",
+      "emailAddress": "tin.jonson@kinn.com",
+	  "category": "Senior"
+    },
+    {
+      "userId": "A004",
+      "jobTitle": "UI Developer",
+      "firstName": "Tom",
+      "lastName": "Sanju",
+      "employeeCode": "E4",
+      "city": "Bangalore",
+      "phoneNumber": "655855454",
+      "emailAddress": "tom.sanjus@gets.com",
+	  "category": "Junior"
+    },
+	{
+      "userId": "A005",
+      "jobTitle": "Java Developer",
+      "firstName": "Viajy",
+      "lastName": "A",
+      "employeeCode": "E5",
+      "city": "Chennai",
+      "phoneNumber": "859674235",
+      "emailAddress": "a.vijays@yahoo.com",
+	  "category": "Junior"
+    },
+	{
+      "userId": "A006",
+      "jobTitle": "Java Developer",
+      "firstName": "Sree",
+      "lastName": "Sri",
+      "employeeCode": "E6",
+      "city": "Bangalore",
+      "phoneNumber": "989875655",
+      "emailAddress": "ss.sree@gmail.com",
+	  "category": "Senior"
+    },
+	{
+      "userId": "A007",
+      "jobTitle": "Java Developer",
+      "firstName": "Veni",
+      "lastName": "Gopal",
+      "employeeCode": "E7",
+      "city": "Bangalore",
+      "phoneNumber": "989658785",
+      "emailAddress": "veni.gopal@gmail.com",
+	  "category": "Senior"
+    },
+	{
+      "userId": "A008",
+      "jobTitle": "Java Developer",
+      "firstName": "Tara",
+      "lastName": "Ganesan",
+      "employeeCode": "E7",
+      "city": "Bangalore",
+      "phoneNumber": "9898758788",
+      "emailAddress": "tara.ganesan@gmail.com",
+	  "category": "Senior"
+    },	
+	{
+      "userId": "A009",
+      "jobTitle": "Tester",
+      "firstName": "Bopal",
+      "lastName": "Gopu",
+      "employeeCode": "E9",
+      "city": "Bangalore",
+      "phoneNumber": "9898758795",
+      "emailAddress": "bopal.gopu@gmail.com",
+	  "category": "Junior"
+    },
+	{
+      "userId": "A010",
+      "jobTitle": "Tester",
+      "firstName": "Raju",
+      "lastName": "Lokesh",
+      "employeeCode": "E10",
+      "city": "Bangalore",
+      "phoneNumber": "9898758711",
+      "emailAddress": "raju.lokesh@yahoo.com",
+	  "category": "Senior"
+    },
+	{
+      "userId": "A011",
+      "jobTitle": "Java devloper",
+      "firstName": "Meena",
+      "lastName": "Ramesh",
+      "employeeCode": "E11",
+      "city": "Bangalore",
+      "phoneNumber": "98987584785",
+      "emailAddress": "meena.ramesh@yahoo.com",
+	  "category": "Junior"
+    },
+	{
+      "userId": "A012",
+      "jobTitle": "Java devloper",
+      "firstName": "Kiru",
+      "lastName": "Babu",
+      "employeeCode": "E12",
+      "city": "Bangalore",
+      "phoneNumber": "458769856",
+      "emailAddress": "kiru.babu@gmail.com",
+	  "category": "Junior"
+    },
+	{
+      "userId": "A013",
+      "jobTitle": "UI devloper",
+      "firstName": "Kiki",
+      "lastName": "Ram",
+      "employeeCode": "E13",
+      "city": "Chennai",
+      "phoneNumber": "568975698",
+      "emailAddress": "kiki.ram@gmail.com",
+	  "category": "Junior"
+    }
+  ]
 }
