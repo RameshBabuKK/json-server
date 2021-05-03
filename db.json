@@ -1,8 +1,8 @@
 {
   "Employees": [
     {
-      "userId": "A001",
-      "jobTitle": "UI Developer",
+      "id": "A001",
+      "title": "UI Developer",
       "firstName": "Ramesh Babu",
       "lastName": "Kathiravan",
       "employeeCode": "E1",
@@ -12,8 +12,8 @@
 	  "category": "Senior"
     },
     {
-      "userId": "A002",
-      "jobTitle": "Java Developer",
+      "id": "A002",
+      "title": "Java Developer",
       "firstName": "Devid",
       "lastName": "Rome",
       "employeeCode": "E2",
@@ -23,8 +23,8 @@
 	  "category": "Senior"
     },
     {
-      "userId": "A003",
-      "jobTitle": "UX Designeer",
+      "id": "A003",
+      "title": "UX Designeer",
       "firstName": "tin",
       "lastName": "jonson",
       "employeeCode": "E3",
@@ -34,8 +34,8 @@
 	  "category": "Senior"
     },
     {
-      "userId": "A004",
-      "jobTitle": "UI Developer",
+      "id": "A004",
+      "title": "UI Developer",
       "firstName": "Tom",
       "lastName": "Sanju",
       "employeeCode": "E4",
@@ -45,8 +45,8 @@
 	  "category": "Junior"
     },
 	{
-      "userId": "A005",
-      "jobTitle": "Java Developer",
+      "id": "A005",
+      "title": "Java Developer",
       "firstName": "Viajy",
       "lastName": "A",
       "employeeCode": "E5",
@@ -56,8 +56,8 @@
 	  "category": "Junior"
     },
 	{
-      "userId": "A006",
-      "jobTitle": "Java Developer",
+      "id": "A006",
+      "title": "Java Developer",
       "firstName": "Sree",
       "lastName": "Sri",
       "employeeCode": "E6",
@@ -67,8 +67,8 @@
 	  "category": "Senior"
     },
 	{
-      "userId": "A007",
-      "jobTitle": "Java Developer",
+      "id": "A007",
+      "title": "Java Developer",
       "firstName": "Veni",
       "lastName": "Gopal",
       "employeeCode": "E7",
@@ -78,8 +78,8 @@
 	  "category": "Senior"
     },
 	{
-      "userId": "A008",
-      "jobTitle": "Java Developer",
+      "id": "A008",
+      "title": "Java Developer",
       "firstName": "Tara",
       "lastName": "Ganesan",
       "employeeCode": "E7",
@@ -89,8 +89,8 @@
 	  "category": "Senior"
     },	
 	{
-      "userId": "A009",
-      "jobTitle": "Tester",
+      "id": "A009",
+      "title": "Tester",
       "firstName": "Bopal",
       "lastName": "Gopu",
       "employeeCode": "E9",
@@ -100,8 +100,8 @@
 	  "category": "Junior"
     },
 	{
-      "userId": "A010",
-      "jobTitle": "Tester",
+      "id": "A010",
+      "title": "Tester",
       "firstName": "Raju",
       "lastName": "Lokesh",
       "employeeCode": "E10",
@@ -111,8 +111,8 @@
 	  "category": "Senior"
     },
 	{
-      "userId": "A011",
-      "jobTitle": "Java devloper",
+      "id": "A011",
+      "title": "Java devloper",
       "firstName": "Meena",
       "lastName": "Ramesh",
       "employeeCode": "E11",
@@ -122,8 +122,8 @@
 	  "category": "Junior"
     },
 	{
-      "userId": "A012",
-      "jobTitle": "Java devloper",
+      "id": "A012",
+      "title": "Java devloper",
       "firstName": "Kiru",
       "lastName": "Babu",
       "employeeCode": "E12",
@@ -133,8 +133,8 @@
 	  "category": "Junior"
     },
 	{
-      "userId": "A013",
-      "jobTitle": "UI devloper",
+      "id": "A013",
+      "title": "UI devloper",
       "firstName": "Kiki",
       "lastName": "Ram",
       "employeeCode": "E13",
